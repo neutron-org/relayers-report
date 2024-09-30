@@ -5,8 +5,8 @@ pion-1,07-tendermint-155,connection-144,channel-239,transfer,theta-testnet-001,0
 pion-1,07-tendermint-148,connection-135,channel-221,transfer,mocha-4,07-tendermint-120,connection-99,channel-26,transfer
 pion-1,07-tendermint-6,connection-5,channel-6,transfer,axelar-testnet-lisbon-3,07-tendermint-428,connection-339,channel-233,transfer
 pion-1,07-tendermint-8,connection-7,channel-8,transfer,axelar-testnet-lisbon-3,07-tendermint-432,connection-343,channel-237,transfer
-pion-1,07-tendermint-382,connection-275,channel-1152,transfer,dydx-testnet-4,07-tendermint-34,connection-23,channel-71,transfer
-pion-1,07-tendermint-191,connection-156,channel-496 ,transfer,grand-1,07-tendermint-70,connection-61,channel-43,transfer
+pion-1,07-tendermint-445,connection-290,channel-1200,transfer,dydx-testnet-4,07-tendermint-36,connection-25,channel-73,transfer
+pion-1,07-tendermint-444,connection-289,channel-1199,transfer,grand-1,07-tendermint-315,connection-265,channel-220,transfer
 pion-1,07-tendermint-379,connection-272,channel-1141,transfer,osmo-test-5,07-tendermint-3981,connection-3441,channel-8851,transfer
 pion-1,07-tendermint-284,connection-192,channel-787,transfer,osmo-test-5,07-tendermint-3525,connection-3089,channel-7884,transfer
 pion-1,07-tendermint-438,connection-279,channel-1163,transfer,initiation-1,07-tendermint-365,connection-242,channel-501,transfer
