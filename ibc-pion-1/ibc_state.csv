@@ -3,7 +3,7 @@ pion-1,07-tendermint-68,connection-42,channel-95,consumer,provider,07-tendermint
 pion-1,07-tendermint-68,connection-42,channel-96,transfer,provider,07-tendermint-28,connection-19,channel-32,transfer
 pion-1,07-tendermint-155,connection-144,channel-239,transfer,theta-testnet-001,07-tendermint-2654,connection-3004,channel-3457,transfer
 pion-1,07-tendermint-148,connection-135,channel-221,transfer,mocha-4,07-tendermint-120,connection-99,channel-26,transfer
-pion-1,07-tendermint-6,connection-5,channel-6,transfer,axelar-testnet-lisbon-3,07-tendermint-428,connection-339,channel-233,transfer
+pion-1,07-tendermint-475,connection-313,channel-1247,transfer,axelar-testnet-lisbon-3,07-tendermint-1046,connection-807,channel-565,transfer
 pion-1,07-tendermint-8,connection-7,channel-8,transfer,axelar-testnet-lisbon-3,07-tendermint-432,connection-343,channel-237,transfer
 pion-1,07-tendermint-477,connection-315,channel-1273,transfer,dydx-testnet-4,07-tendermint-46,connection-39,channel-76,transfer
 pion-1,07-tendermint-444,connection-289,channel-1199,transfer,grand-1,07-tendermint-315,connection-265,channel-220,transfer
